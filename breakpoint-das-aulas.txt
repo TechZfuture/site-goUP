@@ -1,0 +1,21 @@
+Aula 01: 
+  Codando a primeira parte de layout - 40:00:00
+  Unidade de medida - 01:07:45
+
+Aula 02: 
+  Estilizando menu - 00:17:10
+  Pack de ícones - 00:39:55
+  Entrando no open e close do menu com js - 00:56:15
+
+Aula 03: 
+  randomuser.me (site para pegar fotos de pessoas) - 00:14:35
+  CRIANDO CARROSSEL (biblioteca Swiper - https://swiperjs.com/) - 00:34:30
+  ANIMAÇÃO QUANDO ROLAR A PÁGINA (scrollreveal - https://scrollrevealjs.org/) - 01:07:00
+
+Aula 04:  
+  Introdução as Media Queries: 00:50:00
+
+Aula 05:
+  Ajustando o carrossel para o desktop no js: 00:46:00
+  Link ativo: 00:56:40
+  Colocar site no gitpages: 01:27:30
